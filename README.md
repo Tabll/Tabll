@@ -9,7 +9,7 @@
 🚢 Docker镜像仓库：https://hub.docker.com/u/tabll
 
 ![](https://github-readme-stats.vercel.app/api?username=Tabll&count_private=true&show_icons=true&theme=buefy&include_all_commits=true&&include_all_commits=true&hide=stars&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tabll&theme=buefy&count_private=true&show_icons=true&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tabll&theme=buefy&count_private=true&show_icons=true&layout=compact&hide_border=true&card_width=270)
 
 
 <!--
